@@ -1,0 +1,6 @@
+{
+  "name": "Bài Tập Trắc Nghiệm Tiếng Anh Lớp 7",
+  "description": "Ứng dụng làm bài tập trắc nghiệm tiếng Anh lớp 7 dành cho học sinh, chấm điểm tự động và báo cáo kết quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
